@@ -78,8 +78,7 @@ read_files() is the correct approach for reading external files in Unity Catalog
 **Result:**
 | Table | Rows | Schema |
 |-------|------|--------|
-| ecommerce_pipeline.raw.events_oct_2019 | 42,448,764 | ecommerce_pipeline.raw |
-| ecommerce_pipeline.raw.events_nov_2019 | 67,501,979 | ecommerce_pipeline.raw |
+| ecommerce_pipeline.raw.events | 109,950,743 | ecommerce_pipeline.raw |
 | **Total** | **109,950,743** | |
 
 **Schema inferred:**
